@@ -1,8 +1,8 @@
 /*
 This query is used to identify top paying Data Analyst jobs that are in remote.
 Also used to order them in their salary per year
-You can adjust query for finding top paying jobs in other places also
-And we can identify lowest paying job also
+You can adjust query for your needs
+NB:And we can identify lowest paying job also!
 */
 
 SELECT
